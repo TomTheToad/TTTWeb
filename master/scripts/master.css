@@ -1,0 +1,42 @@
+/*
+ * Master Styleshee
+ */
+
+body {
+	background-color: #0CB5DB;
+	border: solid 2px black;
+}
+
+header {
+	background-color: #ffffff;
+	border: solid 2px black;
+}
+
+nav {
+	background-color: #FFFFFF
+	border: solid 2px black;
+}
+
+article {
+	background-color:#FFFFFF
+	border: solid 2px black;
+}
+
+aside {
+	background-color: #FFFFFF;
+	border: solid 2px black;
+}
+
+footer {
+	background-color: #FFFFFF;
+}
+
+h1 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 2em;
+}
+
+p {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+}
